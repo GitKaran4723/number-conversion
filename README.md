@@ -5,7 +5,7 @@ This is a module to convert numbers between binary and decimal formats.
 ## Installation
 
 ```sh
-npm install cleaner-conv
+npm install leaner-convc
 ```
 ## Usage
 
