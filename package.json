@@ -1,0 +1,25 @@
+{
+  "name": "cleaner-conv",
+  "version": "1.0.0",
+  "description": "A module to convert numbers between binary and decimal formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitKaran4723/number-conversion.git"
+  },
+  "keywords": [
+    "binary",
+    "decimal",
+    "conversion",
+    "number"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitKaran4723/number-conversion/issues"
+  },
+  "homepage": "https://github.com/GitKaran4723/number-conversion#readme"
+}
